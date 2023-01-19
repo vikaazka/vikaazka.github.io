@@ -1,0 +1,629 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.2.313">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+<meta name="author" content="Vika Azka Mumtazah">
+<meta name="dcterms.date" content="2023-01-19">
+
+<title>Analisis Faktor-Faktor Yang Mempengarui Kuantitas Teh Indonesia Periode 2015-2021</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1.6em;
+  vertical-align: middle;
+}
+pre > code.sourceCode { white-space: pre; position: relative; }
+pre > code.sourceCode > span { display: inline-block; line-height: 1.25; }
+pre > code.sourceCode > span:empty { height: 1.2em; }
+.sourceCode { overflow: visible; }
+code.sourceCode > span { color: inherit; text-decoration: inherit; }
+div.sourceCode { margin: 1em 0; }
+pre.sourceCode { margin: 0; }
+@media screen {
+div.sourceCode { overflow: auto; }
+}
+@media print {
+pre > code.sourceCode { white-space: pre-wrap; }
+pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
+}
+pre.numberSource code
+  { counter-reset: source-line 0; }
+pre.numberSource code > span
+  { position: relative; left: -4em; counter-increment: source-line; }
+pre.numberSource code > span > a:first-child::before
+  { content: counter(source-line);
+    position: relative; left: -1em; text-align: right; vertical-align: baseline;
+    border: none; display: inline-block;
+    -webkit-touch-callout: none; -webkit-user-select: none;
+    -khtml-user-select: none; -moz-user-select: none;
+    -ms-user-select: none; user-select: none;
+    padding: 0 4px; width: 4em;
+    color: #aaaaaa;
+  }
+pre.numberSource { margin-left: 3em; border-left: 1px solid #aaaaaa;  padding-left: 4px; }
+div.sourceCode
+  {   }
+@media screen {
+pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
+}
+code span.al { color: #ff0000; font-weight: bold; } /* Alert */
+code span.an { color: #60a0b0; font-weight: bold; font-style: italic; } /* Annotation */
+code span.at { color: #7d9029; } /* Attribute */
+code span.bn { color: #40a070; } /* BaseN */
+code span.bu { color: #008000; } /* BuiltIn */
+code span.cf { color: #007020; font-weight: bold; } /* ControlFlow */
+code span.ch { color: #4070a0; } /* Char */
+code span.cn { color: #880000; } /* Constant */
+code span.co { color: #60a0b0; font-style: italic; } /* Comment */
+code span.cv { color: #60a0b0; font-weight: bold; font-style: italic; } /* CommentVar */
+code span.do { color: #ba2121; font-style: italic; } /* Documentation */
+code span.dt { color: #902000; } /* DataType */
+code span.dv { color: #40a070; } /* DecVal */
+code span.er { color: #ff0000; font-weight: bold; } /* Error */
+code span.ex { } /* Extension */
+code span.fl { color: #40a070; } /* Float */
+code span.fu { color: #06287e; } /* Function */
+code span.im { color: #008000; font-weight: bold; } /* Import */
+code span.in { color: #60a0b0; font-weight: bold; font-style: italic; } /* Information */
+code span.kw { color: #007020; font-weight: bold; } /* Keyword */
+code span.op { color: #666666; } /* Operator */
+code span.ot { color: #007020; } /* Other */
+code span.pp { color: #bc7a00; } /* Preprocessor */
+code span.sc { color: #4070a0; } /* SpecialChar */
+code span.ss { color: #bb6688; } /* SpecialString */
+code span.st { color: #4070a0; } /* String */
+code span.va { color: #19177c; } /* Variable */
+code span.vs { color: #4070a0; } /* VerbatimString */
+code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warning */
+</style>
+
+
+<script src="index_files/libs/clipboard/clipboard.min.js"></script>
+<script src="index_files/libs/quarto-html/quarto.js"></script>
+<script src="index_files/libs/quarto-html/popper.min.js"></script>
+<script src="index_files/libs/quarto-html/tippy.umd.min.js"></script>
+<script src="index_files/libs/quarto-html/anchor.min.js"></script>
+<link href="index_files/libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="index_files/libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="index_files/libs/bootstrap/bootstrap.min.js"></script>
+<link href="index_files/libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="index_files/libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+
+
+</head>
+
+<body class="fullcontent">
+
+<div id="quarto-content" class="page-columns page-rows-contents page-layout-article">
+
+<main class="content" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">Analisis Faktor-Faktor Yang Mempengarui Kuantitas Teh Indonesia Periode 2015-2021</h1>
+<p class="subtitle lead">Metode Penelitian Politeknik APP Jakarta</p>
+</div>
+
+
+
+<div class="quarto-title-meta">
+
+    <div>
+    <div class="quarto-title-meta-heading">Author</div>
+    <div class="quarto-title-meta-contents">
+             <p>Vika Azka Mumtazah </p>
+          </div>
+  </div>
+    
+    <div>
+    <div class="quarto-title-meta-heading">Published</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date">January 19, 2023</p>
+    </div>
+  </div>
+  
+    
+  </div>
+  
+
+</header>
+
+<p><img src="poltekapp.jpg" class="img-fluid" alt="logo APP muncul secara random lalalala"></p>
+<section id="pendahuluan" class="level2" data-number="1">
+<h2 data-number="1" class="anchored" data-anchor-id="pendahuluan"><span class="header-section-number">1</span> Pendahuluan</h2>
+<section id="latar-belakang" class="level3" data-number="1.1">
+<h3 data-number="1.1" class="anchored" data-anchor-id="latar-belakang"><span class="header-section-number">1.1</span> Latar belakang</h3>
+<p>Peran Indonesia dalam perdagangan internasional difokuskan pada ekspor barang dan jasa. Ketika harga minyak dunia jatuh ke titik terendahnya pada tahun 1980-an, pemerintah membuat kebijakan dan deregulasi ekspor dengan membebaskan ekspor berbagai komoditas sehingga memungkinkan produsen dalam negeri untuk meningkatkan ekspor nonmigas. Kebijakan dan deregulasi tersebut berdampak pada perkembangan ekspor. Pada tahun 1987, ekspor Indonesia mulai didominasi oleh komoditas nonmigas. Dalam ekspor nonmigas, ketiga sektor industri, pertanian dan pertambangan memegang peranan penting. Seperti kita ketahui bersama, meskipun sektor pertanian merupakan sektor ketiga dari ekspor migas yang memberikan kontribusi terhadap volume ekspor nonmigas, namun sektor ini merupakan sektor yang berpotensi untuk menopang perekonomian dan pendapatan nasional seperti komoditas perkebunan teh.</p>
+<p>Teh merupakan salah satu komoditas hasil perkebunan yang memiliki peran yang cukup strategis dalam menunjang perekonomian Indonesia. Dikarenakan letak geografis dan sumber daya alam Indonesia yang mendukung, menjadikan Indonesia menempati rangking tujuh besar negara penghasil teh di seluruh dunia. Selain penghasil devisa negara, teh juga berperan dalam meningkatkan penghasilan bagi perusahaan maupun perkebunan kecil, menyediakan lapangan pekerjaan sehingga meningkatkan tenaga kerja, dan memiliki keunggulan dalam hal kandungan mineral, vitamin, dan zat antioksidan yang diperlukan oleh tubuh.</p>
+<p>Penelitian ini meneliti permasalahan mengenai pengaruh produktivitas dan luas areal perkebunan teh Indonesia terhadap kuantitas teh Indonesia tahun 2015-2021. Teh merupakan salah satu komoditi dari Indonesia dalam perdagangan internasional, komoditi ini memberikan cukup penting bagi devisa negara. Produksi teh, produktivitas dan luas areal perkebunan teh indonesia setiap tahun mengalami fluktuasi. Berdasarkan data Kementerian Pertanian, puncak produksi teh terjadi pada 2017 yang mencapai 146.251 ribu ton. Namun, pada 2018 dan 2019 produksinya turun menjadi 140.236 ribu ton dan 129.832 ribu ton.&nbsp; Penurunan produksi tersebut untungnya tidak berlanjut pada 2020 dan 2021, pada tahun tersebut produksi teh meningkat menjadi 144.063 ton dan 145.138 ton. Fluktuasi yang terjadi pada kuantitas teh tersebut secara umum dapat disebabkan oleh volume dan nilai ekspor, produktivitas, luas areal, dan harga teh internasional. Dari berbagai penyebab fluktuasi kuantitas teh tersebut, masing-masing mempunyai peranannya sendiri terhadap kuantitas teh, namun yang akan diteliti dalam penelitian ini adalah produktivitas dan luas areal. Berdasarkan latar belakang tersebut peneliti tertarik untuk melakukan penelitian yang berjudul tentang “Analisis Faktor-Faktor Yang Mempengaruhi Kuantitas Teh Indonesia Periode 2015-2021”.</p>
+</section>
+<section id="ruang-lingkup" class="level3" data-number="1.2">
+<h3 data-number="1.2" class="anchored" data-anchor-id="ruang-lingkup"><span class="header-section-number">1.2</span> Ruang lingkup</h3>
+<p>Pembatasan masalah ini dilakukan agar penelitian dapat berfokus pada ruang lingkup penelitian yang tidak meluas. Berdasarkan identifikasi masalah, penelitian membatasi masalah pengaruh produktivitas dan luas areal terhadap kuantitas teh di Indonesia. Data diambil dari Direktorat Jenderal Perkebunan selama tujuh tahun terakhir (2015-2021).</p>
+</section>
+<section id="rumusan-masalah" class="level3" data-number="1.3">
+<h3 data-number="1.3" class="anchored" data-anchor-id="rumusan-masalah"><span class="header-section-number">1.3</span> Rumusan masalah</h3>
+<p>Berdasarkan uraian diatas, maka dalam penelitian kali ini penulis membuat rumusan masalah, yaitu bagaimana pengaruh produktivitas dan luas areal terhadap kuantitas teh indonesia?</p>
+</section>
+<section id="tujuan-dan-manfaat-penelitian" class="level3" data-number="1.4">
+<h3 data-number="1.4" class="anchored" data-anchor-id="tujuan-dan-manfaat-penelitian"><span class="header-section-number">1.4</span> Tujuan dan Manfaat Penelitian</h3>
+<p><strong>Tujuan Penelitian</strong></p>
+<p>Adapun tujuan penelitian ini adalah untuk mengetahui pengaruh produktivitas dan luas areal terhadap kuantitas teh di Indonesia.</p>
+<p><strong>Manfaat Penelitian</strong></p>
+<p>Adapun manfaat penelitian ini adalah:</p>
+<p>a. Manfaat teoritis</p>
+<p>Hasil penelitian ini dapat memberikan sumbangan pemikiran yang bermanfaat bagi bidang Ekonomi.</p>
+<p>b. Manfaat Praktis</p>
+<p>1) Bagi Pemerintah Penelitian ini diharapkan dapat menjadi masukkan dan dapat menentukan kebijakan dalam meningkatkan kuantitas teh di Indonesia.</p>
+<p>2) Bagi Penulis Sebagai sarana dan melatih untuk mengembangkan kemampuan berfikir ilmiah, sistematis dan kemampuan untuk dapat menuliskan dalam bentuk karya ilmiah berdasarkan kajian-kajian teori ekonomi.</p>
+<p>3) Secara Akademis Penelitian ini dapat menambah kepustakaan dan dapat dijadikan bahan referensi untuk penelitian selanjutnya.</p>
+</section>
+</section>
+<section id="studi-pustaka" class="level2" data-number="2">
+<h2 data-number="2" class="anchored" data-anchor-id="studi-pustaka"><span class="header-section-number">2</span> Studi pustaka</h2>
+<ol type="1">
+<li><p>Perdagangan Internasional</p>
+<p>Perdagangan internasional diartikan sebagai perdagangan yang menunjukkan adanya hubungan dan saling ketergantungan (interdependence) di antara dua atau lebih negara. Negara-negara memiliki karakteristik sumber daya alam dan sumber daya manusia yang bervariasi. Pada dasarnya suatu negara tidak mungkin dapat memenuhi seluruh kebutuhan hidup penduduknya tanpa mendatangkan barang atau jasa dari negara lain. Dalam perdagangan antar negara melibatkan eksportir dan importir. Berkat perdagangan internasional, baik dalam barang maupun jasa, dan lalu lintas keuangan internasional, perekonomian setiap negara kini menjadi semakin terkait erat satu sama lain dibandingkan dengan masa-masa sebelumnya.</p></li>
+<li><p>Produksi</p>
+<p>Secara Umum produksi adalah penciptaan guna (utility) yang berarti kemampuan suatu barang atau jasa untuk memuaskan kebutuhan manusia tertentu. Gilarso menyatakan produksi adalah seluruh kegiatan usaha manusia yang menghasilkan barang dan jasa yang bermanfaat memenuhi kebutuhan hidup manusia sedangkan Joesron et al berpendapat bahwa produksi merupakan hasil akhir dari proses ekonomi dengan memanfaatkan masukan atau input guna menghasilkan suatu output. Dapat disimpulkan bahwa produksi merupakan menciptakan atau menambah kegunaan (nilai guna) suatu barang.</p></li>
+<li><p>Produktivitas</p>
+<p>Produktivitas secara umum diartikan sebagai hubungan antara keluaran (barang-barang atau jasa) dengan masukan (tenaga kerja, bahan, uang). Produktivitas adalah ukuran efisiensi produktif. Suatu pembanding antara hasil keluaran dan masukan (Sutrisno, 2009). Sedangkan menurut pendapat Ardana ( 2012 ) menyebutkan bahwa produktivitas dipengaruhi oleh faktor-faktor seperti: pendidikan, keterampilan, disiplin, sikap mental dan etika kerja, motivasi, gizi dan kesehatan, tingkat penghasilan, jaminan sosial, lingkungan dan iklim kerja, hubungan industrial pancasila (hubungan kerja yang sangat manusiawi), teknologi, sarana produksi, manajemen, dan kesempatan berprestasi.</p></li>
+<li><p>Luas Lahan</p>
+<p>Luas lahan adalah keseluruhan wilayah yang menjadi tempat penanaman. atau mengerjakan proses penanaman, luas lahan menjamin jumlah atau hasil yang akan .diperoleh petani. Menurut mubyarto luas lahan adalah.keseluruhan wilayah yang menjadi.tempat penanaman atau mengerjakan proses penanaman, luas lahan menjamin jumlah atau hasil yang akan diperoleh petani Dapat disimpulkan bahwa lahan merupakan faktor yang penting dalam sektor pertanian ini. Lahan mempunyai nilai ekonomis yang bisa sangat tinggi, dengan begitu akan menguntungkan pemiliknya.</p></li>
+</ol>
+</section>
+<section id="metode-penelitian" class="level2" data-number="3">
+<h2 data-number="3" class="anchored" data-anchor-id="metode-penelitian"><span class="header-section-number">3</span> Metode penelitian</h2>
+<section id="data" class="level3" data-number="3.1">
+<h3 data-number="3.1" class="anchored" data-anchor-id="data"><span class="header-section-number">3.1</span> Data</h3>
+<p>Metode analisis pada penelitian ini menggunakan metode dengan mengambil data sekunder. Data pada analisis penelitian ini dicatat secara sistematis yang berbentuk data runtut waktu (<em>time series data)</em> periode 2015-201<em>.</em> Pengambilan data pada penelitian ini diperoleh dari Direktorat Jenderal Perkebunan. Data pada penelitian ini meliputi: 1) Produksi teh Indonesia; 2) Produktivitas Teh Indonesia; 3) Luas Areal Perkebunan Teh Indonesia.</p>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb1"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="fu">setwd</span>(<span class="st">"C:/Users/User/Documents/metopel/uas"</span>)</span>
+<span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a><span class="fu">library</span>(readxl)</span>
+<span id="cb1-3"><a href="#cb1-3" aria-hidden="true" tabindex="-1"></a>dat<span class="ot">&lt;-</span><span class="fu">read_excel</span>(<span class="st">"latihan.xlsx"</span>)</span>
+<span id="cb1-4"><a href="#cb1-4" aria-hidden="true" tabindex="-1"></a>reg1<span class="ot">&lt;-</span><span class="fu">lm</span>(Y<span class="sc">~</span>X<span class="sc">+</span>S,<span class="at">data=</span>dat)</span>
+<span id="cb1-5"><a href="#cb1-5" aria-hidden="true" tabindex="-1"></a>dat<span class="sc">$</span>u<span class="ot">&lt;-</span><span class="fu">resid</span>(reg1)</span>
+<span id="cb1-6"><a href="#cb1-6" aria-hidden="true" tabindex="-1"></a><span class="fu">plot</span>(dat<span class="sc">$</span>X,dat<span class="sc">$</span>Y,<span class="at">xlab=</span><span class="st">"Produktivitas"</span>,<span class="at">ylab=</span><span class="st">"Luas Areal"</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output-display">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="index_files/figure-html/plot%20luas%20areal%20terhadap%20produktivitas-1.png" class="img-fluid figure-img" width="672"></p>
+<p></p><figcaption class="figure-caption">plot luas areal terhadap produktivitas</figcaption><p></p>
+</figure>
+</div>
+</div>
+</div>
+</section>
+<section id="metode-analisi-data" class="level3" data-number="3.2">
+<h3 data-number="3.2" class="anchored" data-anchor-id="metode-analisi-data"><span class="header-section-number">3.2</span> Metode Analisi Data</h3>
+<p>Teknik analisis yang digunakan dalam penelitian ini adalah teknik kuantitatif dan penjabaran deskriptif. Teknik analisis kuantitatif yang dilakukan dalam penelitian ini dengan melakukan regresi menggunakan metode yang dipilih adalah regresi univariat atau Ordinary Least Square (OLS) dengan 2 variabel independen. Penelitian ini bertujuan untuk mengetahui pengaruh produktivitas dan luas areal terhadap kuantitas teh di Indonesia. Rumus yang digunakan untuk regresi, sebagai berikut:</p>
+<p>Y = 𝛽<sub>0</sub> + 𝛽<sub>1</sub>X+ β<sub>2</sub>S+ μ</p>
+<p>Keterangan:</p>
+<p>Y = Produksi teh</p>
+<p>𝛽<sub>0</sub> = Konstanta</p>
+<p>𝛽<sub>1</sub>X = Konstanta Produktivitas</p>
+<p>β<sub>2</sub>S = Konstanta Luas Areal</p>
+<p>μ = Error term</p>
+</section>
+</section>
+<section id="pembahasan" class="level2" data-number="4">
+<h2 data-number="4" class="anchored" data-anchor-id="pembahasan"><span class="header-section-number">4</span> Pembahasan</h2>
+<section id="pembahasan-masalah" class="level3" data-number="4.1">
+<h3 data-number="4.1" class="anchored" data-anchor-id="pembahasan-masalah"><span class="header-section-number">4.1</span> Pembahasan Masalah</h3>
+</section>
+<section id="perkembangan-produksi-teh-indonesia" class="level3" data-number="4.2">
+<h3 data-number="4.2" class="anchored" data-anchor-id="perkembangan-produksi-teh-indonesia"><span class="header-section-number">4.2</span> Perkembangan Produksi Teh Indonesia</h3>
+<p>Perkebunan merupakan pilar utama perdagangan internasional bagi Indonesia sehingga Indonesia memiliki berbagai komoditi yang berkualitas tinggi salah satunya adalah teh. Indonesia memiliki potensi yang sangat besar dalam memproduksi teh untuk bersaing di pasar internasional. Di samping memiliki kualitas yang unggul, Indonesia memiliki beragam jenis teh seperti teh hitam, teh hijau, teh oolong, teh putih, dan lain-lain. Walaupun Indonesia menjadi negara produsen teh terbesar ketujuh dunia setelah negara China, India, Kenya, Sri Lanka, Turki dan Vietnam, tetapi kenyataanya Indonesia masih mengalami fluktuasi pada produksi teh, hal ini dapat dilihat pada tabel di bawah yang menunjukkan perkembangan produksi teh Indonesia:</p>
+<p>Tabel 1.Perkembangan produksi teh Indonesia tahun 2015-2021</p>
+<table class="table">
+<thead>
+<tr class="header">
+<th>Tahun</th>
+<th>Produksi (Ton)</th>
+<th>Perkembangan (%)</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>2015</td>
+<td>132.615</td>
+<td>-</td>
+</tr>
+<tr class="even">
+<td>2016</td>
+<td>138.935</td>
+<td>4,77</td>
+</tr>
+<tr class="odd">
+<td>2017</td>
+<td>146.251</td>
+<td>5,27</td>
+</tr>
+<tr class="even">
+<td>2018</td>
+<td>140.236</td>
+<td>-4,11</td>
+</tr>
+<tr class="odd">
+<td>2019</td>
+<td>129.832</td>
+<td>-7,42</td>
+</tr>
+<tr class="even">
+<td>2020</td>
+<td>144.063</td>
+<td>10,96</td>
+</tr>
+<tr class="odd">
+<td>2021</td>
+<td>145.138</td>
+<td>0,75</td>
+</tr>
+<tr class="even">
+<td>Rata - rata</td>
+<td></td>
+<td>1,46</td>
+</tr>
+</tbody>
+</table>
+<p>Perkembangan produksi teh Indonesia pada periode 2015-2021 cenderung mengalami fluktuasi pada tahun 2018-2019 dengan perkembangan rata-rata sebesar 1,46%. Dari tahun 2015 ke tahun 2016 produksi teh meningkat sebesar 4,77% dan pada tahun 2017 juga mengalami peningkatan sebesar 5,27%. Pada tahun 2018 perkembangan produksi teh indonesia mengalami penurunan sebesar -4,11% dikarenakan menurunnya luas areal lahan tanaman teh. Menurunnya produktivitas teh Indonesia pada tahun 2019 mengakibatkan perkembangan produksi teh Indonesia menurun sebesar -7,42%. Dikarenakan peminat teh di pasar lokal, nasional maupun internasional tidak berubah pada masa pandemi Covid-19 di tahun 2020, mengakibatkan Indonesia terus meningkatkan produksi teh nya karena permintaan teh yang terus meningkat. Produksi teh Indonesia meningkat secara signifikan pada tahun 2020 sebesar 10,96%. Penurunan luas areal lahan tanaman teh pada tahun 2021 mengakibatkan produksi teh Indonesia menurun sebesar 0,75%.</p>
+<p><strong>Perkembangan Produktivitas Teh Indonesia</strong></p>
+<p>Produktivitas adalah perbandingan antara hasil partisipasi tenaga kerja per satuan waktu. Penurunan nilai produksi dan ekspor teh nasional dapat disebabkan oleh kombinasi beberapa faktor seperti produktivitas petani, namun juga faktor hilir sehingga pemasaran produk olahan teh dari Indonesia masih belum optimal. Banyak perkebunan teh Indonesia membutuhkan restorasi sebagai bagian dari program pemerintah untuk meningkatkan produktivitas. Perkembangan produktivitas teh Indonesia dapat dilihat pada tabel berikut:</p>
+<p>Tabel 2.Perkembangan produktivitas teh Indonesia tahun 2015-2021</p>
+<table class="table">
+<thead>
+<tr class="header">
+<th>Tahun</th>
+<th>Produktivitas (Kg/Ha)</th>
+<th>Perkembangan (%)</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>2015</td>
+<td>1.495</td>
+<td>-</td>
+</tr>
+<tr class="even">
+<td>2016</td>
+<td>1.568</td>
+<td>4,88</td>
+</tr>
+<tr class="odd">
+<td>2017</td>
+<td>1.670</td>
+<td>6,51</td>
+</tr>
+<tr class="even">
+<td>2018</td>
+<td>1.617</td>
+<td>-3,17</td>
+</tr>
+<tr class="odd">
+<td>2019</td>
+<td>1.546</td>
+<td>-4,39</td>
+</tr>
+<tr class="even">
+<td>2020</td>
+<td>1.699</td>
+<td>9,90</td>
+</tr>
+<tr class="odd">
+<td>2021</td>
+<td>1.732</td>
+<td>1,94</td>
+</tr>
+<tr class="even">
+<td>Rata - rata</td>
+<td></td>
+<td>2,24</td>
+</tr>
+</tbody>
+</table>
+<p>Pada periode 2015-2021 perkembangan produktivitas teh indonesia memiliki rata-rata perkembangan sebesar 2,24%. Produktivitas teh Indonesia pada tahun 2016-2017 mengalami peningkatan dengan persentase perkembangan masing-masing sebesar 4,88% dan 6,52%. Hal ini mungkin dikarenakan adanya peningkatan keterampilan para petani teh Indonesia dalam menanam teh. Seiring dengan penurunan luas areal teh dari tahun 2017-2019 mengakibatkan produktivitas teh mengalami penurunan pada tahun 2018-2019 dengan persentase perkembangan masing-masing sebesar -3,17% dan -4,39%. Meningkatnya permintaan teh pada masa pandemi Covid-19 di tahun 2020 dan adanya efisiensi kerja mengakibatkan produktivitas teh Indonesia meningkat signifikan sebesar 9,90%. Pada tahun 2021 produktivitas teh Indonesia kembali meningkat sebesar 1,94%.</p>
+<p><strong>Perkembangan Luas Areal Perkebunan Teh Indonesia</strong></p>
+<p>Di Indonesia, komoditas teh ditanam oleh Perkebunan Rakyat (PR), Perkebunan Besar Negara (PBN) dan Perkebunan Besar Swasta (PBS). Menurut data Direktorat Jenderal Perkebunan Kementerian Pertanian (2020), komponen terbesar areal teh adalah perkebunan rakyat yang mencapai 45,62% dari total areal teh di Indonesia. Sedangkan komposisi areal perkebunan besar milik negara dan swasta masing-masing sebesar 34,13% dan 22,74%. Industri teh Indonesia berkembang dari Sumatera Utara hingga Jawa Timur. Perkembangan luas areal teh Indonesia dapat dilihat pada tabel berikut:&nbsp;</p>
+<p>Tabel 3.Perkembangan luas areal perkebunan teh Indonesia tahun 2015-2021</p>
+<table class="table">
+<thead>
+<tr class="header">
+<th>Tahun</th>
+<th>Luas (Ha)</th>
+<th>Perkembangan (%)</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>2015</td>
+<td>114.891</td>
+<td>-</td>
+</tr>
+<tr class="even">
+<td>2016</td>
+<td>113.617</td>
+<td>-1,11</td>
+</tr>
+<tr class="odd">
+<td>2017</td>
+<td>113.307</td>
+<td>-0,27</td>
+</tr>
+<tr class="even">
+<td>2018</td>
+<td>109.936</td>
+<td>-2,98</td>
+</tr>
+<tr class="odd">
+<td>2019</td>
+<td>111.116</td>
+<td>1,07</td>
+</tr>
+<tr class="even">
+<td>2020</td>
+<td>112.308</td>
+<td>1,07</td>
+</tr>
+<tr class="odd">
+<td>2021</td>
+<td>105.534</td>
+<td>-6,03</td>
+</tr>
+<tr class="even">
+<td>Rata - rata</td>
+<td></td>
+<td>-0,75</td>
+</tr>
+</tbody>
+</table>
+<p>Perkembangan luas areal perkebunan teh Indonesia pada periode 2015-2021 memiliki rata-rata perkembangan yang negatif yaitu sebesar -0,75%. Luas areal teh Indonesia terus mengalami penurunan dari tahun 2016-2018 dengan masing-masing sebesar -1,11%, -,27% dan -2,98%. Menurunnya luas areal perkebunan teh Indonesia dapat diakibatkan oleh adanya konversi lahan untuk pembangunan proyek-proyek infrastruktur. Pada tahun 2019-2020 luas areal meningkat sebesar 1,07% dan mengalami penurunan di tahun 2021 sebesar -6,03%.</p>
+</section>
+<section id="analisis-masalah" class="level3" data-number="4.3">
+<h3 data-number="4.3" class="anchored" data-anchor-id="analisis-masalah"><span class="header-section-number">4.3</span> Analisis masalah</h3>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb2"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb2-1"><a href="#cb2-1" aria-hidden="true" tabindex="-1"></a><span class="fu">library</span>(readxl)</span>
+<span id="cb2-2"><a href="#cb2-2" aria-hidden="true" tabindex="-1"></a>dat<span class="ot">&lt;-</span><span class="fu">read_excel</span>(<span class="st">"latihan.xlsx"</span>)</span>
+<span id="cb2-3"><a href="#cb2-3" aria-hidden="true" tabindex="-1"></a>reg1<span class="ot">&lt;-</span><span class="fu">lm</span>(Y<span class="sc">~</span>X<span class="sc">+</span>S,<span class="at">data=</span>dat)</span>
+<span id="cb2-4"><a href="#cb2-4" aria-hidden="true" tabindex="-1"></a><span class="fu">summary</span>(reg1)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-stdout">
+<pre><code>
+Call:
+lm(formula = Y ~ X + S, data = dat)
+
+Residuals:
+      1       2       3       4       5       6       7 
+  608.9  1902.5  1099.2  1936.5 -3534.7 -2718.1   705.8 
+
+Coefficients:
+              Estimate Std. Error t value Pr(&gt;|t|)   
+(Intercept) -7.605e+04  7.057e+04  -1.078  0.34188   
+X            8.187e+01  1.637e+01   5.000  0.00749 **
+S            7.456e-01  4.561e-01   1.635  0.17745   
+---
+Signif. codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1
+
+Residual standard error: 2708 on 4 degrees of freedom
+Multiple R-squared:  0.8777,    Adjusted R-squared:  0.8166 
+F-statistic: 14.36 on 2 and 4 DF,  p-value: 0.01495</code></pre>
+</div>
+</div>
+<table class="table">
+<thead>
+<tr class="header">
+<th>Variable</th>
+<th>Coeficient</th>
+<th>Std. Error</th>
+<th>t. value</th>
+<th>Prob</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Intercept</td>
+<td>-7.605e+04</td>
+<td>7.057e+04</td>
+<td>-1.078</td>
+<td>0.34188</td>
+</tr>
+<tr class="even">
+<td>X</td>
+<td>8.187e+01</td>
+<td>1.637e+01</td>
+<td>5.000</td>
+<td>0.00749 **</td>
+</tr>
+<tr class="odd">
+<td>S</td>
+<td>7.456e-01</td>
+<td>4.561e-01</td>
+<td>1.635</td>
+<td>0.17745</td>
+</tr>
+</tbody>
+</table>
+<table class="table">
+<thead>
+<tr class="header">
+<th>R-Squared</th>
+<th>0.8777</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Adjusted R-Squared</td>
+<td>0.8166</td>
+</tr>
+<tr class="even">
+<td>F-Statistic</td>
+<td>14.36</td>
+</tr>
+<tr class="odd">
+<td>Prob (F-Statistic)</td>
+<td>0.01495</td>
+</tr>
+</tbody>
+</table>
+<p>Berdasarkan pada tabel di atas menunjukkan bahwa produktivitas teh Indonesia berpengaruh secara tidak signifikan terhadap produksi atau kuantitas teh Indonesia. Ditunjukkan dengan probabilitas variabel X (Produktivitas) yang berpengaruh secara tidak signifikan. Selain itu tabel di atas juga menunjukan bahwa luas areal tidak berpengaruh terhadap produksi atau kuantitas teh Indonesia. Ditunjukkan dengan probabilitas variabel Y (Luar Areal) yang tidak berpengaruh. Nilai koefisien produktivitas sebesar 8.187e+01 yang berarti kenaikan perubahan produktivitas berpengaruh secara tidak signifikan terhadap kauntitas teh Indonesia. Sedangkan nilai koefisien luas areal sebesar 7.456e-01 yang berarti kenaikan perubahan luas areal tidak berpengaruh terhadap kuantitas teh Indonesia.</p>
+</section>
+</section>
+<section id="kesimpulan" class="level2" data-number="5">
+<h2 data-number="5" class="anchored" data-anchor-id="kesimpulan"><span class="header-section-number">5</span> Kesimpulan</h2>
+<p>Perkebunan Indonesia menjadi sumber utama devisa negara melalui perdagangan internasional. Selain kelapa sawit, kopi, dan kakao, teh termasuk komoditas ekspor Indonesia terbesar ke-7 setelah negara China, India, Kenya, Sri Lanka, Turki dan Vietnam. Menurut Direktorat Jendral Perkebunan pada tahun 2015-2021 produksi teh Indonesia cenderung mengalami fluktuasi, hal ini dapat disebabkan oleh adanya peningkatan dan penurunan pada produktivitas, luas areal, dan permintaan ekspor teh dunia. Berdasarkan data hasil analisis kuantitatif yang telah dilakukan, dapat disimpulkan bahwa produktivitas berpengaruh secara tidak seignifikan dan luas areal tidak berpengaruh terhadap kuantitas teh Indonesia. Variabel ini mempengaruhi produksi teh di Indonesia sebesar 87,77%. Sisanya sebesar 12,23% dipengaruhi oleh variabel lain yang tidak termasuk dalam penelitian ini.</p>
+</section>
+<section id="referensi" class="level2" data-number="6">
+<h2 data-number="6" class="anchored" data-anchor-id="referensi"><span class="header-section-number">6</span> Referensi</h2>
+<p>Kementerian Pertanian Direktorat Jenderal Perkebunan: Buku Statistik Perkebunan 2020-2022. (n.d.). Retrieved January 19, 2023, from https://ditjenbun.pertanian.go.id/?publikasi=buku-statistik-perkebunan-2020-2022</p>
+<p>Kementerian Pertanian Direktorat Jenderal Perkebunan: Buku Statistik Perkebunan 2019-2021. (n.d.). Retrieved January 19, 2023, from https://ditjenbun.pertanian.go.id/?publikasi=buku-statistik-perkebunan-2019-2021</p>
+<p>Senja, A. P. (2021). PENGARUH PRODUKSI DAN HARGA TEH INTERNASIONAL TERHADAP NILAI EKSPOR TEH INDONESIA DALAM PERSPEKTIF EKONOMI ISLAM TAHUN 2010-2018 [Undergraduate, UIN RADEN INTAN LAMPUNG]. http://repository.radenintan.ac.id/13124/</p>
+</section>
+
+</main>
+<!-- /main column -->
+<script id="quarto-html-after-body" type="application/javascript">
+window.document.addEventListener("DOMContentLoaded", function (event) {
+  const toggleBodyColorMode = (bsSheetEl) => {
+    const mode = bsSheetEl.getAttribute("data-mode");
+    const bodyEl = window.document.querySelector("body");
+    if (mode === "dark") {
+      bodyEl.classList.add("quarto-dark");
+      bodyEl.classList.remove("quarto-light");
+    } else {
+      bodyEl.classList.add("quarto-light");
+      bodyEl.classList.remove("quarto-dark");
+    }
+  }
+  const toggleBodyColorPrimary = () => {
+    const bsSheetEl = window.document.querySelector("link#quarto-bootstrap");
+    if (bsSheetEl) {
+      toggleBodyColorMode(bsSheetEl);
+    }
+  }
+  toggleBodyColorPrimary();  
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
+  const clipboard = new window.ClipboardJS('.code-copy-button', {
+    target: function(trigger) {
+      return trigger.previousElementSibling;
+    }
+  });
+  clipboard.on('success', function(e) {
+    // button target
+    const button = e.trigger;
+    // don't keep focus
+    button.blur();
+    // flash "checked"
+    button.classList.add('code-copy-button-checked');
+    var currentTitle = button.getAttribute("title");
+    button.setAttribute("title", "Copied!");
+    let tooltip;
+    if (window.bootstrap) {
+      button.setAttribute("data-bs-toggle", "tooltip");
+      button.setAttribute("data-bs-placement", "left");
+      button.setAttribute("data-bs-title", "Copied!");
+      tooltip = new bootstrap.Tooltip(button, 
+        { trigger: "manual", 
+          customClass: "code-copy-button-tooltip",
+          offset: [0, -8]});
+      tooltip.show();    
+    }
+    setTimeout(function() {
+      if (tooltip) {
+        tooltip.hide();
+        button.removeAttribute("data-bs-title");
+        button.removeAttribute("data-bs-toggle");
+        button.removeAttribute("data-bs-placement");
+      }
+      button.setAttribute("title", currentTitle);
+      button.classList.remove('code-copy-button-checked');
+    }, 1000);
+    // clear code selection
+    e.clearSelection();
+  });
+  function tippyHover(el, contentFn) {
+    const config = {
+      allowHTML: true,
+      content: contentFn,
+      maxWidth: 500,
+      delay: 100,
+      arrow: false,
+      appendTo: function(el) {
+          return el.parentElement;
+      },
+      interactive: true,
+      interactiveBorder: 10,
+      theme: 'quarto',
+      placement: 'bottom-start'
+    };
+    window.tippy(el, config); 
+  }
+  const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+  for (var i=0; i<noterefs.length; i++) {
+    const ref = noterefs[i];
+    tippyHover(ref, function() {
+      // use id or data attribute instead here
+      let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+      try { href = new URL(href).hash; } catch {}
+      const id = href.replace(/^#\/?/, "");
+      const note = window.document.getElementById(id);
+      return note.innerHTML;
+    });
+  }
+  const findCites = (el) => {
+    const parentEl = el.parentElement;
+    if (parentEl) {
+      const cites = parentEl.dataset.cites;
+      if (cites) {
+        return {
+          el,
+          cites: cites.split(' ')
+        };
+      } else {
+        return findCites(el.parentElement)
+      }
+    } else {
+      return undefined;
+    }
+  };
+  var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+  for (var i=0; i<bibliorefs.length; i++) {
+    const ref = bibliorefs[i];
+    const citeInfo = findCites(ref);
+    if (citeInfo) {
+      tippyHover(citeInfo.el, function() {
+        var popup = window.document.createElement('div');
+        citeInfo.cites.forEach(function(cite) {
+          var citeDiv = window.document.createElement('div');
+          citeDiv.classList.add('hanging-indent');
+          citeDiv.classList.add('csl-entry');
+          var biblioDiv = window.document.getElementById('ref-' + cite);
+          if (biblioDiv) {
+            citeDiv.innerHTML = biblioDiv.innerHTML;
+          }
+          popup.appendChild(citeDiv);
+        });
+        return popup.innerHTML;
+      });
+    }
+  }
+});
+</script>
+</div> <!-- /content -->
+
+
+
+</body></html>

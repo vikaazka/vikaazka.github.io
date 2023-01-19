@@ -1,0 +1,202 @@
+---
+title: "Analisis Faktor-Faktor Yang Mempengarui Kuantitas Teh Indonesia Periode 2015-2021"
+subtitle: "Metode Penelitian Politeknik APP Jakarta"
+author: "Vika Azka Mumtazah"
+date: 2023-01-19
+number-sections: true
+format:
+  html: default
+  docx: default
+editor: visual
+---
+
+![](poltekapp.jpg){alt="logo APP muncul secara random lalalala"}
+
+## Pendahuluan
+
+### Latar belakang
+
+Peran Indonesia dalam perdagangan internasional difokuskan pada ekspor barang dan jasa. Ketika harga minyak dunia jatuh ke titik terendahnya pada tahun 1980-an, pemerintah membuat kebijakan dan deregulasi ekspor dengan membebaskan ekspor berbagai komoditas sehingga memungkinkan produsen dalam negeri untuk meningkatkan ekspor nonmigas. Kebijakan dan deregulasi tersebut berdampak pada perkembangan ekspor. Pada tahun 1987, ekspor Indonesia mulai didominasi oleh komoditas nonmigas. Dalam ekspor nonmigas, ketiga sektor industri, pertanian dan pertambangan memegang peranan penting. Seperti kita ketahui bersama, meskipun sektor pertanian merupakan sektor ketiga dari ekspor migas yang memberikan kontribusi terhadap volume ekspor nonmigas, namun sektor ini merupakan sektor yang berpotensi untuk menopang perekonomian dan pendapatan nasional seperti komoditas perkebunan teh.
+
+Teh merupakan salah satu komoditas hasil perkebunan yang memiliki peran yang cukup strategis dalam menunjang perekonomian Indonesia. Dikarenakan letak geografis dan sumber daya alam Indonesia yang mendukung, menjadikan Indonesia menempati rangking tujuh besar negara penghasil teh di seluruh dunia. Selain penghasil devisa negara, teh juga berperan dalam meningkatkan penghasilan bagi perusahaan maupun perkebunan kecil, menyediakan lapangan pekerjaan sehingga meningkatkan tenaga kerja, dan memiliki keunggulan dalam hal kandungan mineral, vitamin, dan zat antioksidan yang diperlukan oleh tubuh.
+
+Penelitian ini meneliti permasalahan mengenai pengaruh produktivitas dan luas areal perkebunan teh Indonesia terhadap kuantitas teh Indonesia tahun 2015-2021. Teh merupakan salah satu komoditi dari Indonesia dalam perdagangan internasional, komoditi ini memberikan cukup penting bagi devisa negara. Produksi teh, produktivitas dan luas areal perkebunan teh indonesia setiap tahun mengalami fluktuasi. Berdasarkan data Kementerian Pertanian, puncak produksi teh terjadi pada 2017 yang mencapai 146.251 ribu ton. Namun, pada 2018 dan 2019 produksinya turun menjadi 140.236 ribu ton dan 129.832 ribu ton.  Penurunan produksi tersebut untungnya tidak berlanjut pada 2020 dan 2021, pada tahun tersebut produksi teh meningkat menjadi 144.063 ton dan 145.138 ton. Fluktuasi yang terjadi pada kuantitas teh tersebut secara umum dapat disebabkan oleh volume dan nilai ekspor, produktivitas, luas areal, dan harga teh internasional. Dari berbagai penyebab fluktuasi kuantitas teh tersebut, masing-masing mempunyai peranannya sendiri terhadap kuantitas teh, namun yang akan diteliti dalam penelitian ini adalah produktivitas dan luas areal. Berdasarkan latar belakang tersebut peneliti tertarik untuk melakukan penelitian yang berjudul tentang "Analisis Faktor-Faktor Yang Mempengaruhi Kuantitas Teh Indonesia Periode 2015-2021".
+
+### Ruang lingkup
+
+Pembatasan masalah ini dilakukan agar penelitian dapat berfokus pada ruang lingkup penelitian yang tidak meluas. Berdasarkan identifikasi masalah, penelitian membatasi masalah pengaruh produktivitas dan luas areal terhadap kuantitas teh di Indonesia. Data diambil dari Direktorat Jenderal Perkebunan selama tujuh tahun terakhir (2015-2021).
+
+### Rumusan masalah
+
+Berdasarkan uraian diatas, maka dalam penelitian kali ini penulis membuat rumusan masalah, yaitu bagaimana pengaruh produktivitas dan luas areal terhadap kuantitas teh indonesia?
+
+### Tujuan dan Manfaat Penelitian
+
+**Tujuan Penelitian**
+
+Adapun tujuan penelitian ini adalah untuk mengetahui pengaruh produktivitas dan luas areal terhadap kuantitas teh di Indonesia.
+
+**Manfaat Penelitian**
+
+Adapun manfaat penelitian ini adalah:
+
+a\. Manfaat teoritis
+
+Hasil penelitian ini dapat memberikan sumbangan pemikiran yang bermanfaat bagi bidang Ekonomi.
+
+b\. Manfaat Praktis
+
+1\) Bagi Pemerintah Penelitian ini diharapkan dapat menjadi masukkan dan dapat menentukan kebijakan dalam meningkatkan kuantitas teh di Indonesia.
+
+2\) Bagi Penulis Sebagai sarana dan melatih untuk mengembangkan kemampuan berfikir ilmiah, sistematis dan kemampuan untuk dapat menuliskan dalam bentuk karya ilmiah berdasarkan kajian-kajian teori ekonomi.
+
+3\) Secara Akademis Penelitian ini dapat menambah kepustakaan dan dapat dijadikan bahan referensi untuk penelitian selanjutnya.
+
+## Studi pustaka
+
+1.  Perdagangan Internasional
+
+    Perdagangan internasional diartikan sebagai perdagangan yang menunjukkan adanya hubungan dan saling ketergantungan (interdependence) di antara dua atau lebih negara. Negara-negara memiliki karakteristik sumber daya alam dan sumber daya manusia yang bervariasi. Pada dasarnya suatu negara tidak mungkin dapat memenuhi seluruh kebutuhan hidup penduduknya tanpa mendatangkan barang atau jasa dari negara lain. Dalam perdagangan antar negara melibatkan eksportir dan importir. Berkat perdagangan internasional, baik dalam barang maupun jasa, dan lalu lintas keuangan internasional, perekonomian setiap negara kini menjadi semakin terkait erat satu sama lain dibandingkan dengan masa-masa sebelumnya.
+
+2.  Produksi
+
+    Secara Umum produksi adalah penciptaan guna (utility) yang berarti kemampuan suatu barang atau jasa untuk memuaskan kebutuhan manusia tertentu. Gilarso menyatakan produksi adalah seluruh kegiatan usaha manusia yang menghasilkan barang dan jasa yang bermanfaat memenuhi kebutuhan hidup manusia sedangkan Joesron et al berpendapat bahwa produksi merupakan hasil akhir dari proses ekonomi dengan memanfaatkan masukan atau input guna menghasilkan suatu output. Dapat disimpulkan bahwa produksi merupakan menciptakan atau menambah kegunaan (nilai guna) suatu barang.
+
+3.  Produktivitas
+
+    Produktivitas secara umum diartikan sebagai hubungan antara keluaran (barang-barang atau jasa) dengan masukan (tenaga kerja, bahan, uang). Produktivitas adalah ukuran efisiensi produktif. Suatu pembanding antara hasil keluaran dan masukan (Sutrisno, 2009). Sedangkan menurut pendapat Ardana ( 2012 ) menyebutkan bahwa produktivitas dipengaruhi oleh faktor-faktor seperti: pendidikan, keterampilan, disiplin, sikap mental dan etika kerja, motivasi, gizi dan kesehatan, tingkat penghasilan, jaminan sosial, lingkungan dan iklim kerja, hubungan industrial pancasila (hubungan kerja yang sangat manusiawi), teknologi, sarana produksi, manajemen, dan kesempatan berprestasi.
+
+4.  Luas Lahan
+
+    Luas lahan adalah keseluruhan wilayah yang menjadi tempat penanaman. atau mengerjakan proses penanaman, luas lahan menjamin jumlah atau hasil yang akan .diperoleh petani. Menurut mubyarto luas lahan adalah.keseluruhan wilayah yang menjadi.tempat penanaman atau mengerjakan proses penanaman, luas lahan menjamin jumlah atau hasil yang akan diperoleh petani Dapat disimpulkan bahwa lahan merupakan faktor yang penting dalam sektor pertanian ini. Lahan mempunyai nilai ekonomis yang bisa sangat tinggi, dengan begitu akan menguntungkan pemiliknya.
+
+## Metode penelitian
+
+### Data
+
+Metode analisis pada penelitian ini menggunakan metode dengan mengambil data sekunder. Data pada analisis penelitian ini dicatat secara sistematis yang berbentuk data runtut waktu (*time series data)* periode 2015-201*.* Pengambilan data pada penelitian ini diperoleh dari Direktorat Jenderal Perkebunan. Data pada penelitian ini meliputi: 1) Produksi teh Indonesia; 2) Produktivitas Teh Indonesia; 3) Luas Areal Perkebunan Teh Indonesia.
+
+```{r}
+#| label: plot luas areal terhadap produktivitas
+#| fig-cap: "plot luas areal terhadap produktivitas"
+setwd("C:/Users/User/Documents/metopel/uas")
+library(readxl)
+dat<-read_excel("latihan.xlsx")
+reg1<-lm(Y~X+S,data=dat)
+dat$u<-resid(reg1)
+plot(dat$X,dat$Y,xlab="Produktivitas",ylab="Luas Areal")
+```
+
+### Metode Analisi Data
+
+Teknik analisis yang digunakan dalam penelitian ini adalah teknik kuantitatif dan penjabaran deskriptif. Teknik analisis kuantitatif yang dilakukan dalam penelitian ini dengan melakukan regresi menggunakan metode yang dipilih adalah regresi univariat atau Ordinary Least Square (OLS) dengan 2 variabel independen. Penelitian ini bertujuan untuk mengetahui pengaruh produktivitas dan luas areal terhadap kuantitas teh di Indonesia. Rumus yang digunakan untuk regresi, sebagai berikut:
+
+Y = 𝛽~0~ + 𝛽~1~X+ β~2~S+ μ
+
+Keterangan:
+
+Y = Produksi teh
+
+𝛽~0~ = Konstanta
+
+𝛽~1~X = Konstanta Produktivitas
+
+β~2~S = Konstanta Luas Areal
+
+μ = Error term
+
+## Pembahasan
+
+### Pembahasan Masalah
+
+### Perkembangan Produksi Teh Indonesia
+
+Perkebunan merupakan pilar utama perdagangan internasional bagi Indonesia sehingga Indonesia memiliki berbagai komoditi yang berkualitas tinggi salah satunya adalah teh. Indonesia memiliki potensi yang sangat besar dalam memproduksi teh untuk bersaing di pasar internasional. Di samping memiliki kualitas yang unggul, Indonesia memiliki beragam jenis teh seperti teh hitam, teh hijau, teh oolong, teh putih, dan lain-lain. Walaupun Indonesia menjadi negara produsen teh terbesar ketujuh dunia setelah negara China, India, Kenya, Sri Lanka, Turki dan Vietnam, tetapi kenyataanya Indonesia masih mengalami fluktuasi pada produksi teh, hal ini dapat dilihat pada tabel di bawah yang menunjukkan perkembangan produksi teh Indonesia:
+
+Tabel 1.Perkembangan produksi teh Indonesia tahun 2015-2021
+
+| Tahun       | Produksi (Ton) | Perkembangan (%) |
+|-------------|----------------|------------------|
+| 2015        | 132.615        | \-               |
+| 2016        | 138.935        | 4,77             |
+| 2017        | 146.251        | 5,27             |
+| 2018        | 140.236        | -4,11            |
+| 2019        | 129.832        | -7,42            |
+| 2020        | 144.063        | 10,96            |
+| 2021        | 145.138        | 0,75             |
+| Rata - rata |                | 1,46             |
+
+Perkembangan produksi teh Indonesia pada periode 2015-2021 cenderung mengalami fluktuasi pada tahun 2018-2019 dengan perkembangan rata-rata sebesar 1,46%. Dari tahun 2015 ke tahun 2016 produksi teh meningkat sebesar 4,77% dan pada tahun 2017 juga mengalami peningkatan sebesar 5,27%. Pada tahun 2018 perkembangan produksi teh indonesia mengalami penurunan sebesar -4,11% dikarenakan menurunnya luas areal lahan tanaman teh. Menurunnya produktivitas teh Indonesia pada tahun 2019 mengakibatkan perkembangan produksi teh Indonesia menurun sebesar -7,42%. Dikarenakan peminat teh di pasar lokal, nasional maupun internasional tidak berubah pada masa pandemi Covid-19 di tahun 2020, mengakibatkan Indonesia terus meningkatkan produksi teh nya karena permintaan teh yang terus meningkat. Produksi teh Indonesia meningkat secara signifikan pada tahun 2020 sebesar 10,96%. Penurunan luas areal lahan tanaman teh pada tahun 2021 mengakibatkan produksi teh Indonesia menurun sebesar 0,75%.
+
+**Perkembangan Produktivitas Teh Indonesia**
+
+Produktivitas adalah perbandingan antara hasil partisipasi tenaga kerja per satuan waktu. Penurunan nilai produksi dan ekspor teh nasional dapat disebabkan oleh kombinasi beberapa faktor seperti produktivitas petani, namun juga faktor hilir sehingga pemasaran produk olahan teh dari Indonesia masih belum optimal. Banyak perkebunan teh Indonesia membutuhkan restorasi sebagai bagian dari program pemerintah untuk meningkatkan produktivitas. Perkembangan produktivitas teh Indonesia dapat dilihat pada tabel berikut:
+
+Tabel 2.Perkembangan produktivitas teh Indonesia tahun 2015-2021
+
+| Tahun       | Produktivitas (Kg/Ha) | Perkembangan (%) |
+|-------------|-----------------------|------------------|
+| 2015        | 1.495                 | \-               |
+| 2016        | 1.568                 | 4,88             |
+| 2017        | 1.670                 | 6,51             |
+| 2018        | 1.617                 | -3,17            |
+| 2019        | 1.546                 | -4,39            |
+| 2020        | 1.699                 | 9,90             |
+| 2021        | 1.732                 | 1,94             |
+| Rata - rata |                       | 2,24             |
+
+Pada periode 2015-2021 perkembangan produktivitas teh indonesia memiliki rata-rata perkembangan sebesar 2,24%. Produktivitas teh Indonesia pada tahun 2016-2017 mengalami peningkatan dengan persentase perkembangan masing-masing sebesar 4,88% dan 6,52%. Hal ini mungkin dikarenakan adanya peningkatan keterampilan para petani teh Indonesia dalam menanam teh. Seiring dengan penurunan luas areal teh dari tahun 2017-2019 mengakibatkan produktivitas teh mengalami penurunan pada tahun 2018-2019 dengan persentase perkembangan masing-masing sebesar -3,17% dan -4,39%. Meningkatnya permintaan teh pada masa pandemi Covid-19 di tahun 2020 dan adanya efisiensi kerja mengakibatkan produktivitas teh Indonesia meningkat signifikan sebesar 9,90%. Pada tahun 2021 produktivitas teh Indonesia kembali meningkat sebesar 1,94%.
+
+**Perkembangan Luas Areal Perkebunan Teh Indonesia**
+
+Di Indonesia, komoditas teh ditanam oleh Perkebunan Rakyat (PR), Perkebunan Besar Negara (PBN) dan Perkebunan Besar Swasta (PBS). Menurut data Direktorat Jenderal Perkebunan Kementerian Pertanian (2020), komponen terbesar areal teh adalah perkebunan rakyat yang mencapai 45,62% dari total areal teh di Indonesia. Sedangkan komposisi areal perkebunan besar milik negara dan swasta masing-masing sebesar 34,13% dan 22,74%. Industri teh Indonesia berkembang dari Sumatera Utara hingga Jawa Timur. Perkembangan luas areal teh Indonesia dapat dilihat pada tabel berikut: 
+
+Tabel 3.Perkembangan luas areal perkebunan teh Indonesia tahun 2015-2021
+
+| Tahun       | Luas (Ha) | Perkembangan (%) |
+|-------------|-----------|------------------|
+| 2015        | 114.891   | \-               |
+| 2016        | 113.617   | -1,11            |
+| 2017        | 113.307   | -0,27            |
+| 2018        | 109.936   | -2,98            |
+| 2019        | 111.116   | 1,07             |
+| 2020        | 112.308   | 1,07             |
+| 2021        | 105.534   | -6,03            |
+| Rata - rata |           | -0,75            |
+
+Perkembangan luas areal perkebunan teh Indonesia pada periode 2015-2021 memiliki rata-rata perkembangan yang negatif yaitu sebesar -0,75%. Luas areal teh Indonesia terus mengalami penurunan dari tahun 2016-2018 dengan masing-masing sebesar -1,11%, -,27% dan -2,98%. Menurunnya luas areal perkebunan teh Indonesia dapat diakibatkan oleh adanya konversi lahan untuk pembangunan proyek-proyek infrastruktur. Pada tahun 2019-2020 luas areal meningkat sebesar 1,07% dan mengalami penurunan di tahun 2021 sebesar -6,03%.
+
+### Analisis masalah
+
+```{r}
+library(readxl)
+dat<-read_excel("latihan.xlsx")
+reg1<-lm(Y~X+S,data=dat)
+summary(reg1)
+```
+
+| Variable  | Coeficient | Std. Error | t\. value | Prob         |
+|-----------|------------|------------|-----------|--------------|
+| Intercept | -7.605e+04 | 7.057e+04  | -1.078    | 0.34188      |
+| X         | 8.187e+01  | 1.637e+01  | 5.000     | 0.00749 \*\* |
+| S         | 7.456e-01  | 4.561e-01  | 1.635     | 0.17745      |
+
+| R-Squared          | 0.8777  |
+|--------------------|---------|
+| Adjusted R-Squared | 0.8166  |
+| F-Statistic        | 14.36   |
+| Prob (F-Statistic) | 0.01495 |
+
+Berdasarkan pada tabel di atas menunjukkan bahwa produktivitas teh Indonesia berpengaruh secara tidak signifikan terhadap produksi atau kuantitas teh Indonesia. Ditunjukkan dengan probabilitas variabel X (Produktivitas) yang berpengaruh secara tidak signifikan. Selain itu tabel di atas juga menunjukan bahwa luas areal tidak berpengaruh terhadap produksi atau kuantitas teh Indonesia. Ditunjukkan dengan probabilitas variabel Y (Luar Areal) yang tidak berpengaruh. Nilai koefisien produktivitas sebesar 8.187e+01 yang berarti kenaikan perubahan produktivitas berpengaruh secara tidak signifikan terhadap kauntitas teh Indonesia. Sedangkan nilai koefisien luas areal sebesar 7.456e-01 yang berarti kenaikan perubahan luas areal tidak berpengaruh terhadap kuantitas teh Indonesia.
+
+## Kesimpulan
+
+Perkebunan Indonesia menjadi sumber utama devisa negara melalui perdagangan internasional. Selain kelapa sawit, kopi, dan kakao, teh termasuk komoditas ekspor Indonesia terbesar ke-7 setelah negara China, India, Kenya, Sri Lanka, Turki dan Vietnam. Menurut Direktorat Jendral Perkebunan pada tahun 2015-2021 produksi teh Indonesia cenderung mengalami fluktuasi, hal ini dapat disebabkan oleh adanya peningkatan dan penurunan pada produktivitas, luas areal, dan permintaan ekspor teh dunia. Berdasarkan data hasil analisis kuantitatif yang telah dilakukan, dapat disimpulkan bahwa produktivitas berpengaruh secara tidak seignifikan dan luas areal tidak berpengaruh terhadap kuantitas teh Indonesia. Variabel ini mempengaruhi produksi teh di Indonesia sebesar 87,77%. Sisanya sebesar 12,23% dipengaruhi oleh variabel lain yang tidak termasuk dalam penelitian ini.
+
+## Referensi
+
+Kementerian Pertanian Direktorat Jenderal Perkebunan: Buku Statistik Perkebunan 2020-2022. (n.d.). Retrieved January 19, 2023, from https://ditjenbun.pertanian.go.id/?publikasi=buku-statistik-perkebunan-2020-2022
+
+Kementerian Pertanian Direktorat Jenderal Perkebunan: Buku Statistik Perkebunan 2019-2021. (n.d.). Retrieved January 19, 2023, from https://ditjenbun.pertanian.go.id/?publikasi=buku-statistik-perkebunan-2019-2021
+
+Senja, A. P. (2021). PENGARUH PRODUKSI DAN HARGA TEH INTERNASIONAL TERHADAP NILAI EKSPOR TEH INDONESIA DALAM PERSPEKTIF EKONOMI ISLAM TAHUN 2010-2018 \[Undergraduate, UIN RADEN INTAN LAMPUNG\]. http://repository.radenintan.ac.id/13124/
